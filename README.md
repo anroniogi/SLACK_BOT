@@ -24,5 +24,5 @@ Simple slack bot app for education
 
 ### Todo
 - [x] 각 동작에 대한 SLACK BOT 명령어 구현
-- [ ] Friend Class 생성해야함
-- [ ] 친구목록은 Vector로 구현?
+- [x] Friend Class 생성해야함
+- [x] 친구목록은 Vector로 구현?
